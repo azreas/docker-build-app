@@ -4,7 +4,7 @@
  */
 
 var swarm = {
-    host: process.env.SWARM_HOST || '121.201.18.171',
+    host: process.env.SWARM_HOST || '192.168.1.240',
     port: process.env.SWARM_PORT || 3375
 };
 
